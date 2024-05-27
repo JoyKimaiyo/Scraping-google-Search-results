@@ -30,4 +30,6 @@ That's all the steps needed to configure your Google Sheets account. Now you're 
 
 https://github.com/JoyKimaiyo/Scraping-google-Search-results/assets/106971527/c90fe714-79eb-4fa1-b8f1-955bf60ba6d2
 
+for commonswords.py I was scraping for common words in the links from the HTML turns out it is scraping the Google search results page HTML. If you know how to do it in a single web  
+
 
