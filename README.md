@@ -27,3 +27,7 @@ Now, go to Google Sheets and create a new sheet. Give it a name, such as "Spread
 Click on "Share", add the service account email address you copied earlier, uncheck "Notify people", and then click "Share".
 That's all the steps needed to configure your Google Sheets account. Now you're ready to use the g-spread library!
 
+
+https://github.com/JoyKimaiyo/Scraping-google-Search-results/assets/106971527/c90fe714-79eb-4fa1-b8f1-955bf60ba6d2
+
+
